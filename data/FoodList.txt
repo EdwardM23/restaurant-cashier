@@ -1,0 +1,6 @@
+Nasi Goreng#food#20000.0#available
+Mie Goreng#food#18000.0#available
+Lumpia(2)#food#8000.0#available
+Bakso Goreng(3)#food#15000.0#available
+Bakmie Bangka#food#24000.0#available
+Bubur Ayam#food#15000.0#available
